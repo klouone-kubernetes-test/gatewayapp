@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.kloudone.gateway"
+        },
+        "jhipsterVersion": "5.8.1",
+        "applicationType": "gateway",
+        "baseName": "gatewayapp",
+        "packageName": "com.kloudone.gateway",
+        "packageFolder": "com/kloudone/gateway",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "hazelcast",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "NjdmZjVlMmQyYzc3NzYyYmE5ODU3YTgzMmQwYTUwNDEzYmI0NTNkMjA1ZTYyNTM4NTdmZjg0NWZjNWQ4MGFmNzM0ZTQ4NWIyM2M2NTY2ZmQ0MTNiY2E5Y2QzNzIwMzNkMWRmMGFlZmIwZWIwZDRjNTFjN2E3NjlmYjEzOGJkY2U=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
