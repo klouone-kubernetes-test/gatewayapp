@@ -1,7 +1,8 @@
 {
     "generator-jhipster": {
         "promptValues": {
-            "packageName": "com.kloudone.gateway"
+            "packageName": "com.kloudone.gateway",
+            "microservicePath": "../dealer-app/"
         },
         "jhipsterVersion": "5.8.1",
         "applicationType": "gateway",
